@@ -1,0 +1,142 @@
+html{
+    background-color: aqua;
+    font-style: arial;
+    font-size: larger;
+}
+    #h2{text-decoration: underline}
+
+    #p{font-size: large}
+
+    #ul{font-style: italic}
+
+    #body{background-color: rgb(216, 163, 163)}
+
+    #a{color: purple}
+
+    #h3{text-decoration: underline;}
+
+#div1 {
+   background-color: orange;
+   position:fixed;
+   right:0px
+}
+#div2{
+    border-style: solid;
+    background-color: whitesmoke;
+    width:10.4%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto; 
+   }
+#div3{
+    background-color: white;
+    width:9.3%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+#div4{
+    background-color: white;
+    width:210px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+#div5{
+    background-color:white;
+    border-style: solid;
+    width:30%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+#div6{
+    font-size: 15pt;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%
+}
+#vid{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%
+}    
+#div8{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:8%
+}
+#div9{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 7%
+}
+#div10{
+    text-decoration: underline;
+    white-space:nowrap;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 20%
+}
+#div11{
+    white-space:nowrap;
+    font-size: 15pt;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:40%;
+}
+#div12{
+    white-space:nowrap;
+    font-size: 15pt;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:13%;
+}
+#questionaire{
+    padding:0px;
+    background-color:orange;
+    font-style: italic;
+    border-style:solid;
+    font-weight:50px;
+    position: fixed;
+    left:0;   
+    bottom: 0;
+}
+#gaming{
+    text-decoration: underline;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:8%
+}
+#family{
+    text-decoration: underline;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:8%
+}
+#son{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:8%
+}
+
+
+
+input[type=button]{
+    color:black;
+    background-color:white;
+    padding:5px
+}
+#div1, #div2, #div3, #div4{
+    border: solid;
+}
